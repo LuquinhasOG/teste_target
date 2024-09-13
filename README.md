@@ -18,4 +18,4 @@
 - f) 200, próximo número que começa com a letra D
 
 ### exercício 5
-Ligo o primeiro interruptor e desligo depois de um tempo, ligo o segundo e vou na primeira sala, se estiver acessa então o 2° interruptor controla ela, senão se estiver quente é o primeiro interruptor que controla ela, senão é o 3° interruptor, vou para a outra sala e repito a verificação e com esses dados posso deduzir qual interruptor acende a lâmpada da última sala.
+Ligo o primeiro interruptor e desligo depois de um tempo, ligo o segundo e vou na primeira sala, se estiver acessa então o 2° interruptor controla ela, senão se estiver quente é o primeiro interruptor que controla ela, senão é o 3° interruptor, vou para a outra sala e repito a verificação e sabendo quais interruptores controlam a lampada da 1° e 2° sala posso deduzir qual interruptor acende a lâmpada da última sala.
